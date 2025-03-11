@@ -1,0 +1,16 @@
+{
+  "sourceName": "KissKH",
+  "iconUrl": "https://kisskh.id/favicon.ico",
+  "author": {
+    "name": "Rikyo1923",
+  },
+  "version": "1.0.0",
+  "language": "English",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://kisskh.id/",
+  "searchBaseUrl": "https://kisskh.id/Search/?s=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/sora-kisskh-module/main/script.js",
+  "asyncJS": true,
+  "softsub": true
+}
